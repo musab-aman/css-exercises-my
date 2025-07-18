@@ -1,0 +1,26 @@
+.num-1 {
+
+
+}
+.num-2 {
+    color: blue;
+    font-size: 32px;
+
+}
+.num-3 {
+    font-size: 24px;
+
+}
+.num-4 {
+    background-color: rgb(124, 243, 100);
+    font-size: 24px;
+    font-weight: bold;
+
+}
+.num-5 {
+
+}
+.number {
+    background-color: rgb(252, 162, 162);
+    font: verdana, "dejavu sans", sans-serif;
+}
